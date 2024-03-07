@@ -34,6 +34,22 @@ span{
 
 }
 
+.container-fluid {
+    min-height: 100vh; 
+  }
+  .custom-box {
+    
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+    margin: 20px;
+ 
+  }
+
+#home-img-2{
+    margin-left: 10rem;
+}
+
 /*  this is for image floating */
 @keyframes floatImage{
     0%{
